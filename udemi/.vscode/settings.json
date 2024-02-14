@@ -1,0 +1,7 @@
+{
+	"prettier.insertPragma": true,
+	"prettier.useTabs": true,
+	"prettier.vueIndentScriptAndStyle": true,
+	"prettier.withNodeModules": false,
+	"prettier.bracketSameLine": true
+}
